@@ -1,5 +1,5 @@
 # Google-Game-Service-Example
- A simple example for showing how to import google game service to your project.
+ A simple example for showing how to import google game service to your project. using this version of GGPS to resolve "multi-dex" problem.
 
 ### Steps to make a simple GGS applicaton
 * download unitypackage from [google github](https://github.com/playgameservices/play-games-plugin-for-unity)
